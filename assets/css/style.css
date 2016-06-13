@@ -1,0 +1,49 @@
+body {
+    background: url("../img/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: #fff;
+    font-family: "Helvetica Neue";
+    font-weight: 100;
+    font-size: 60px;
+    margin: 0px;
+}
+
+a {
+    color: transparent;
+}
+
+p {
+    color: #fff;
+    font-family: "Helvetica Neue";
+    font-weight: 200;
+}
+
+.box {
+    background-color: rgba(0, 0, 0,.5);
+    padding: 20px;
+    width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.fa {
+    font-size: 1.75em;
+}
+
+.fa.fa-github {
+    color: #444444;
+}
+
+.fa.fa-linkedin-square {
+    color: #007BB6;
+}
+
+.fa.fa-twitter-square {
+    color: #55ACEE;
+}
